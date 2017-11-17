@@ -1,0 +1,14 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoPEP8",
+		"BracketHighlighter",
+		"Package Control",
+		"SublimeAStyleFormatter",
+		"SublimeREPL"
+	]
+}
