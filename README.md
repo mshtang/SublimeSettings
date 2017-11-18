@@ -10,9 +10,10 @@
 ## Build systems
 - `Python3.6.sublime-build`: for python 3.6
 - `Python3.6-REPL.sublime-build`: an python 3.6 interpreter within sublime text
-~~- `C++`: for C++~~ (It's complicated to set up the vs compiler in sublime text, use terminal to compile instead (See next entry)!)
+- ~~`C++`: for C++~~ (It's complicated to set up the vs compiler in sublime text, use terminal to compile instead (See next entry)!)
 - change to cwd and enter `cl /EHsc xxx.cpp` to build, if successful, it prompts
-```/output: xxx.exe
+```
+/output: xxx.exe
 xxx.obj
 ```
 Then, enter `xxx` (without the `.cpp ` extention to run)
